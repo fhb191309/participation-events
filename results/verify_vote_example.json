@@ -1,0 +1,31 @@
+{
+  "milestoneIndex":ADD MILESTONE INDEX,
+  "status":"ADD STATUS OF THE VOTE",
+  "questions":[
+    {
+      "answers":[
+        {
+          "value":ADD VALUE,
+          "current":ADD CURRENT VOTES,
+          "accumulated":ADD ACCUMULATED VOTES
+        },
+        {
+         "value":ADD VALUE,
+         "current":ADD CURRENT VOTES,
+          "accumulated":ADD ACCUMULATED VOTES
+        },
+        {
+          "value":ADD VALUE,
+          "current":ADD CURRENT VOTES,
+          "accumulated":ADD ACCUMULATED VOTES
+        },
+        {
+          "value":ADD VALUE,
+          "current":ADD CURRENT VOTES,
+          "accumulated":ADD ACCUMULATED VOTES
+        }
+      ]
+    }
+  ],
+  "checksum":"ADD CHECKSUM FROM VOTING EVENT"
+}
